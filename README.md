@@ -2,8 +2,8 @@
 Better coding and new challenges.
 
 ## Project 001
-[Something Goes Here](001/) - description goes here
-Status: In progress
+[ES6 Arrow Functions with Chaining](001/) - learning demo
+Status: Complete
 
 ## Resources
 * [Something](https://github.com/)
