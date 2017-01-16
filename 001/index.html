@@ -49,10 +49,12 @@
       return (parts[0] * 60) + parts[1];
     })
     // reduce to get total
-    .reduce((runningTotal, seconds) => runningTotal + seconds, 0)
+    .reduce((runningTotal, seconds) => runningTotal + seconds, 0);
+
+  const finalTime = (filtered / 60);
 
   // 🔥 This can also be done in a single .reduce(), but we're practicing arrow functions here, so chain them!
-  document.getElementById('totalTime').innerHTML = `The total time of the ${videoType} videos is ${filtered} minutes!`;
+  document.getElementById('totalTime').innerHTML = `The total time of the ${videoType} videos is ${filtered} minutes! Or ${finalTime} hours.`;
 </script>
 </body>
 </html>
