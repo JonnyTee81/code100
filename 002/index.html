@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+
+  <body>
+    <h1>Prototype</h1>
+    <button onclick="handlers.toggleAll()">Toggle All</button>
+
+    <div>
+      <button onclick="handlers.addTodo()">Add Todo</button>
+      <input id="addTodoTextInput" type="text" />
+    </div>
+
+    <div>
+      <button onclick="handlers.changeTodo()">
+        Change Todo
+      </button>
+      <input id="changeTodoPositionInput" type="number"/>
+      <input id="changeTodoTextInput" type="text"/>
+    </div>
+
+    <div>
+      <button onclick="handlers.toggleCompleted();">
+        Toggle Completed
+      </button>
+      <input id="toggleCompletedPositionInput" type="number" />
+    </div>
+
+    <ul>
+
+    </ul>
+
+    <script src="script.js"></script>
+  </body>
+
+</html>
