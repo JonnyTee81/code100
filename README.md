@@ -9,5 +9,9 @@ Status: Complete
 [ES5 Basic Todo List](002/) - practical javascript example using objects to setup MVC foundation
 Status: Complete
 
+## Project 003
+[Javascript Drum Kit](003/) - Taken from Wes Bos's Javascript 30 - Day 1.
+Status: Complete
+
 ## Resources
 * [Something](https://github.com/)
