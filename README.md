@@ -13,5 +13,9 @@ Status: Complete
 [Javascript Drum Kit](003/) - Taken from Wes Bos's Javascript 30 - Day 1.
 Status: Complete
 
+## Project 004
+[CSS + JS Clock](004/) - Taken from Wes Bos's Javascript 30 - Day 2
+Status: Complete
+
 ## Resources
 * [Something](https://github.com/)
