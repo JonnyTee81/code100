@@ -17,5 +17,9 @@ Status: Complete
 [CSS + JS Clock](004/) - Taken from Wes Bos's Javascript 30 - Day 2
 Status: Complete
 
+## Project 005
+[JS Async with Promise](005/) - Writing neat asynchronous Node JS code with Promises
+Status: Complete
+
 ## Resources
 * [Something](https://github.com/)
